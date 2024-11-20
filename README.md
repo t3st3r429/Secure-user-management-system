@@ -63,7 +63,7 @@ For a detailed setup and security best practices, see [setup guide](docs/setup_g
 
 ###5.Create User Management Scripts
 
-The core of your project will be bash scripts that handle user management tasks like creating, modifying, and deleting users. Below are some examples of what these scripts might look like:
+The core of the project will be bash scripts that handle user management tasks like creating, modifying, and deleting users. Below are some examples of what these scripts might look like:
 
 #### `create_user.sh`
 
